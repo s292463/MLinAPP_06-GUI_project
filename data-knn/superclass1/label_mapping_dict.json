@@ -1,0 +1,15 @@
+{
+    "BLCA": 0,
+    "BRCA": 1,
+    "COAD": 2,
+    "ESCA": 3,
+    "KICH": 4,
+    "KIRC": 5,
+    "LGG": 6,
+    "OV": 7,
+    "PCPG": 8,
+    "SARC": 9,
+    "THCA": 10,
+    "THYM": 11,
+    "UCEC": 12
+}

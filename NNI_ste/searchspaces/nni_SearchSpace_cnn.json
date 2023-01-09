@@ -1,0 +1,121 @@
+{
+    "nni_network/Conv1D_filters_1/randint": {
+      "_type": "randint",
+      "_value": [
+        4,
+        100
+      ]
+    },
+    "nni_network/Conv1D_filters_2/randint": {
+      "_type": "randint",
+      "_value": [
+        10,
+        100
+      ]
+    },
+    "nni_network/Conv1D_filters_3/randint": {
+      "_type": "randint",
+      "_value": [
+        4,
+        100
+      ]
+    },
+    
+    "nni_network/Dropout_rate_1/uniform": {
+      "_type": "uniform", 
+      "_value": [0.5, 0.8]
+    },
+    "nni_network/Dropout_rate_2/uniform": {
+      "_type": "uniform", 
+      "_value": [0.5, 0.8]
+    },
+    "nni_network/Dropout_rate_3/uniform": {
+      "_type": "uniform", 
+      "_value": [0.5, 0.8]
+    },
+    "nni_network/Conv1D_filters_4/randint": {
+      "_type": "randint",
+      "_value": [
+        4,
+        100
+      ]
+    },
+    "nni_network/Conv1D_kernel_size_1/randint": {
+      "_type": "randint",
+      "_value": [
+        2,
+        7
+      ]
+    },
+    "nni_network/Conv1D_kernel_size_2/randint": {
+      "_type": "randint",
+      "_value": [
+        2,
+        7
+      ]
+    },
+    "nni_network/Conv1D_kernel_size_3/randint": {
+      "_type": "randint",
+      "_value": [
+        2,
+        7
+      ]
+    },
+    "nni_network/Conv1D_kernel_size_4/randint": {
+      "_type": "randint",
+      "_value": [
+        2,
+        7
+      ]
+    },
+    "nni_network/MaxPooling1D_kernel_size_1/randint": {
+      "_type": "randint",
+      "_value": [
+        2,
+        5
+      ]
+    },
+    "nni_network/MaxPooling1D_kernel_size_2/randint": {
+      "_type": "randint",
+      "_value": [
+        2,
+        5
+      ]
+    },
+    "nni_network/MaxPooling1D_kernel_size_3/randint": {
+      "_type": "randint",
+      "_value": [
+        2,
+        6
+      ]
+    },
+    "nni_network/MaxPooling1D_kernel_size_4/randint": {
+      "_type": "randint",
+      "_value": [
+        2,
+        7
+      ]
+    },
+    "nni_network/CNN_Dense_1/randint": {
+      "_type": "randint",
+      "_value": [
+        60,
+        190
+      ]
+    },
+    "nni_network/lr/quniform": {
+        "_type": "quniform",
+        "_value": [
+          0.00001,
+          0.0025,
+          0.00001
+        ]
+      },  
+    "nni_network/batch_size/randint": {
+      "_type": "randint",
+      "_value": [
+        45,
+        160
+      ]
+    }
+  }

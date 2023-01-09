@@ -1,0 +1,9 @@
+{
+    "ACC": 0,
+    "BRCA": 1,
+    "CHOL": 2,
+    "DLBC": 3,
+    "ESCA": 4,
+    "LIHC": 5,
+    "PCPG": 6
+}

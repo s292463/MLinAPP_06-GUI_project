@@ -1,0 +1,29 @@
+Dataset info:
+-Training dataset created from Paper Division
+
+		 ---------------------- 
+		SUPERCLASS 0
+Size = 1731
+Total of 5 classes:
+['BLCA' 'KIRC' 'SKCM' 'UCEC' 'UVM']
+		 ---------------------- 
+		SUPERCLASS 1
+Size = 1754
+Total of 7 classes:
+['ACC' 'BRCA' 'CHOL' 'DLBC' 'ESCA' 'LIHC' 'PCPG']
+		 ---------------------- 
+		SUPERCLASS 2
+Size = 1752
+Total of 6 classes:
+['HNSC' 'KIRP' 'LGG' 'LUSC' 'MESO' 'TGCT']
+		 ---------------------- 
+		SUPERCLASS 3
+Size = 1464
+Total of 6 classes:
+['CESC' 'KICH' 'LUAD' 'PAAD' 'PRAD' 'THYM']
+		 ---------------------- 
+		SUPERCLASS 4
+Size = 1107
+Total of 4 classes:
+['SARC' 'STAD' 'THCA' 'UCS']
+		 ---------------------- 

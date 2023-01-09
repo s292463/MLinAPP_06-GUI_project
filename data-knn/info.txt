@@ -1,0 +1,38 @@
+Dataset info:
+-Created using KMeans + RAW + RFC and PCA feature reduction 
+
+		 ---------------------- 
+		SUPERCLASS 0
+Size = 766
+Total of 24 classes:
+['BLCA' 'BRCA' 'CESC' 'CHOL' 'COAD' 'ESCA' 'HNSC' 'KICH' 'KIRC' 'KIRP'
+ 'LIHC' 'LUAD' 'LUSC' 'OV' 'PAAD' 'PCPG' 'PRAD' 'READ' 'SARC' 'SKCM'
+ 'STAD' 'THCA' 'UCEC' 'UCS']
+		 ---------------------- 
+		SUPERCLASS 1
+Size = 408
+Total of 13 classes:
+['BLCA' 'BRCA' 'COAD' 'ESCA' 'KICH' 'KIRC' 'LGG' 'OV' 'PCPG' 'SARC' 'THCA'
+ 'THYM' 'UCEC']
+		 ---------------------- 
+		SUPERCLASS 2
+Size = 3442
+Total of 33 classes:
+['ACC' 'BLCA' 'BRCA' 'CESC' 'CHOL' 'COAD' 'DLBC' 'ESCA' 'GBM' 'HNSC'
+ 'KICH' 'KIRC' 'KIRP' 'LAML' 'LGG' 'LIHC' 'LUAD' 'LUSC' 'MESO' 'OV' 'PAAD'
+ 'PCPG' 'PRAD' 'READ' 'SARC' 'SKCM' 'STAD' 'TGCT' 'THCA' 'THYM' 'UCEC'
+ 'UCS' 'UVM']
+		 ---------------------- 
+		SUPERCLASS 3
+Size = 411
+Total of 6 classes:
+['GBM' 'LGG' 'LUSC' 'OV' 'TGCT' 'UCEC']
+		 ---------------------- 
+		SUPERCLASS 4
+Size = 3838
+Total of 33 classes:
+['ACC' 'BLCA' 'BRCA' 'CESC' 'CHOL' 'COAD' 'DLBC' 'ESCA' 'GBM' 'HNSC'
+ 'KICH' 'KIRC' 'KIRP' 'LAML' 'LGG' 'LIHC' 'LUAD' 'LUSC' 'MESO' 'OV' 'PAAD'
+ 'PCPG' 'PRAD' 'READ' 'SARC' 'SKCM' 'STAD' 'TGCT' 'THCA' 'THYM' 'UCEC'
+ 'UCS' 'UVM']
+		 ---------------------- 
